@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//amine-kerchaoui.github.io/monsters-rolodex/static/css/main.302003a6.chunk.css",
+    "main.js": "/https//amine-kerchaoui.github.io/monsters-rolodex/static/js/main.f14ab411.chunk.js",
+    "main.js.map": "/https//amine-kerchaoui.github.io/monsters-rolodex/static/js/main.f14ab411.chunk.js.map",
+    "runtime-main.js": "/https//amine-kerchaoui.github.io/monsters-rolodex/static/js/runtime-main.96b1d09e.js",
+    "runtime-main.js.map": "/https//amine-kerchaoui.github.io/monsters-rolodex/static/js/runtime-main.96b1d09e.js.map",
+    "static/js/2.cc8af93d.chunk.js": "/https//amine-kerchaoui.github.io/monsters-rolodex/static/js/2.cc8af93d.chunk.js",
+    "static/js/2.cc8af93d.chunk.js.map": "/https//amine-kerchaoui.github.io/monsters-rolodex/static/js/2.cc8af93d.chunk.js.map",
+    "index.html": "/https//amine-kerchaoui.github.io/monsters-rolodex/index.html",
+    "precache-manifest.19c8f41b969f0336c784aea61849339f.js": "/https//amine-kerchaoui.github.io/monsters-rolodex/precache-manifest.19c8f41b969f0336c784aea61849339f.js",
+    "service-worker.js": "/https//amine-kerchaoui.github.io/monsters-rolodex/service-worker.js",
+    "static/css/main.302003a6.chunk.css.map": "/https//amine-kerchaoui.github.io/monsters-rolodex/static/css/main.302003a6.chunk.css.map",
+    "static/js/2.cc8af93d.chunk.js.LICENSE.txt": "/https//amine-kerchaoui.github.io/monsters-rolodex/static/js/2.cc8af93d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96b1d09e.js",
+    "static/js/2.cc8af93d.chunk.js",
+    "static/css/main.302003a6.chunk.css",
+    "static/js/main.f14ab411.chunk.js"
+  ]
+}
